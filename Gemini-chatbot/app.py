@@ -10,8 +10,6 @@ load_dotenv()
 # Access the API key from environment variables
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 
-# GOOGLE_API_KEY = "AIzaSyCNGgh3q7Nkh0Oa0_G-QR87qhGJJqXTcVQ"
-
 # Google_API configuration
 if GOOGLE_API_KEY:
     genai.configure(api_key=GOOGLE_API_KEY)
