@@ -47,5 +47,7 @@ If you encounter any issues, please ensure that:
 - If the issue persists, check the error message displayed in the app for more information.
 
 ### License
+
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as you wish.
+
 ---
