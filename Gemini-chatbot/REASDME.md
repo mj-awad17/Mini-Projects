@@ -55,3 +55,14 @@ If you encounter any issues, please ensure that:
 If the issue persists, check the error message displayed in the app for more information.
 
 ---
+
+## 🔗 More Projects
+
+Check out more of my projects on GitHub:
+
+- 🤖 [Gemini Chatbot](https://github.com/mj-awad17/Mini-Projects/tree/main/Gemini-chatbot)
+- 🖼️ [BGRemover](https://github.com/mj-awad17/Mini-Projects/tree/main/Remove-background)
+- 🧮 [Calculator](https://github.com/mj-awad17/Mini-Projects/tree/main/Calculator)
+
+## 👨‍💼 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-jawad-86507b201/)
