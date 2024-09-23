@@ -60,7 +60,7 @@ If the issue persists, check the error message displayed in the app for more inf
 
 Check out more of my projects on GitHub:
 
-- 🤖 [Gemini Chatbot](https://github.com/mj-awad17/Mini-Projects/tree/main/Gemini-chatbot)
+- 🔉 [Text to Speech (TTS)](https://github.com/mj-awad17/Mini-Projects/tree/main/Text-to-Speech)
 - 🖼️ [BGRemover](https://github.com/mj-awad17/Mini-Projects/tree/main/Remove-background)
 - 🧮 [Calculator](https://github.com/mj-awad17/Mini-Projects/tree/main/Calculator)
 
