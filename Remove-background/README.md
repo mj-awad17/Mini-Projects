@@ -57,7 +57,7 @@ This project is open-source and available under the MIT License. Feel free to mo
 Check out more of my projects on GitHub:
 
 - 🤖 [Gemini Chatbot](https://github.com/mj-awad17/Mini-Projects/tree/main/Gemini-chatbot)
-- 🖼️ [BGRemover](https://github.com/mj-awad17/Mini-Projects/tree/main/Remove-background)
+- 🔉 [Text to Speech (TTS)](https://github.com/mj-awad17/Mini-Projects/tree/main/Text-to-Speech/README.md)
 - 🧮 [Calculator](https://github.com/mj-awad17/Mini-Projects/tree/main/Calculator)
 
 ## 👨‍💼 Connect with Me
